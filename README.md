@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carlos Tlali Rosales
 
-🎓 Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UNAM  
+🎓 Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
 🔐 Jr. Analyst en Ciberseguridad | 📊 Data Science en formación (Oracle + Alura Latam)  
 💻 Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización  
 🌱 Siempre aprendiendo, siempre mejorando.
