@@ -38,7 +38,7 @@
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tlali-rosales)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)  
 📧 carlos_tlali@comunidad.unam.mx
 
 ---
