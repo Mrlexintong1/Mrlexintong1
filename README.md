@@ -43,7 +43,7 @@
 
 ---
 <p align="center">
-  👀 ¡Gracias por visitar mi perfil!<br>
+      ¡Gracias por visitar mi perfil!<br>
   <img src="https://komarev.com/ghpvc/?username=Mrlexintong1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrlexintong1" />
 </p>
 
