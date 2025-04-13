@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" alt="Cybersecurity Banner" />
+</p>
+
 # 👋 ¡Hola! Soy Carlos Tlali Rosales
 
 🎓 Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
@@ -42,6 +46,13 @@
 📧 carlos_tlali@comunidad.unam.mx
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" alt="Cybersecurity Banner" />
+</p>
 
+<p align="center">
+   ¡Gracias por visitar mi perfil!<br>
+  <img src="https://komarev.com/ghpvc/?username=Mrlexintong1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrlexintong1" />
+</p>
 ✨ *Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.*
 
