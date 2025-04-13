@@ -47,12 +47,14 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" alt="Cybersecurity Banner" />
+  👀 ¡Gracias por visitar mi perfil!<br>
+  <img src="https://komarev.com/ghpvc/?username=Mrlexintong1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrlexintong1" />
 </p>
 
+<br>
+
 <p align="center">
-   ¡Gracias por visitar mi perfil!<br>
-  <img src="https://komarev.com/ghpvc/?username=Mrlexintong1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrlexintong1" />
+  <img src="https://media.giphy.com/media/pe6zrwJSYToti/giphy.gif" width="200px" alt="Gracias - Snoopy" />
 </p>
 ✨ *Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.*
 
