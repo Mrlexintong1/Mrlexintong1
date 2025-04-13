@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%" alt="Cybersecurity Banner" />
-</p>
-
 # 👋 ¡Hola! Soy Carlos Tlali Rosales
 
 🎓 Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
