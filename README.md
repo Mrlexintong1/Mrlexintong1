@@ -1,11 +1,10 @@
-# 👋 ¡Hola! Soy Carlos Tlali Rosales
+# Hola! Soy Carlos Tlali 
 
-🎓 Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
-🔐 Analyst en Ciberseguridad | 📊 Data Science en formación (Oracle + Alura Latam)  
-💻 Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización  
-🌱 Siempre aprendiendo, siempre mejorando.
+Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
+Experto en Ciberseguridad |  Data Science en formación (Oracle + Alura Latam)  
+Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización  
 
----
+
 
 ## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
