@@ -41,15 +41,9 @@ Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización
 📧 carlos_tlali@comunidad.unam.mx
 
 ---
-<p align="center">
-      ¡Gracias por visitar mi perfil!<br>
-  <img src="https://komarev.com/ghpvc/?username=Mrlexintong1&label=Profile%20views&color=0e75b6&style=flat" alt="Mrlexintong1" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/pe6zrwJSYToti/giphy.gif" width="200px" alt="Gracias - Snoopy" />
 </p>
-✨ *Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.*
+ Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.
 
