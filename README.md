@@ -42,8 +42,5 @@ Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/pe6zrwJSYToti/giphy.gif" width="200px" alt="Gracias - Snoopy" />
-</p>
  Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.
 
