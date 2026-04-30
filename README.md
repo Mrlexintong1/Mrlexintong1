@@ -1,8 +1,7 @@
 # Hola! Soy Carlos Tlali 
-
-Estudiante de Ingeniería en Electrónica y Ciberseguridad en la UAG  
+Ingeniero en Electrónica y Ciberseguridad por la UAG  |
 Experto en Ciberseguridad |  Data Science en formación (Oracle + Alura Latam)  
-Back-End Developer Jr | ☁️ Apasionado por Cloud, Datos y Automatización  
+Back-End Developer Jr |  Cloud, Datos y Automatización  
 
 
 
