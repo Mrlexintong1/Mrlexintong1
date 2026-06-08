@@ -26,10 +26,7 @@ Experto en Ciberseguridad |  Data Science |  Cloud, Datos y Automatización
 
 ## 📌 Proyectos destacados
 
-- 🔢 **Calculadora Web en Python** con interfaz gráfica y lógica modular
-- 🌱 **Sistema de suscripción a frutas y verduras** para e-commerce local
-- 🔐 **Simulador de vulnerabilidades y protección en red LAN**
-- 📊 **Análisis de Datos con Pandas y Jupyter Notebooks**
+
 
 ---
 
