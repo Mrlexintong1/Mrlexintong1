@@ -1,11 +1,10 @@
 # Hola! Soy Carlos Tlali 
 Ingeniero en Electrónica y Ciberseguridad por la UAG  |
-Experto en Ciberseguridad |  Data Science en formación (Oracle + Alura Latam)  
-Back-End Developer Jr |  Cloud, Datos y Automatización  
+Experto en Ciberseguridad |  Data Science |  Cloud, Datos y Automatización  
 
 
 
-## 🚀 Tecnologías y herramientas
+##  Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
