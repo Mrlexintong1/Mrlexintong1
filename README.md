@@ -44,7 +44,7 @@ auditor), real-time synthetic-voice detection (AASIST3), H3 geospatial analysis,
 BeeAI + MCP orchestration over IBM Granite. Core design principle: the human operator
 always leads; the AI works in parallel. Compliant with LFPDPPP, NIST AI RMF, and the
 UNESCO AI ethics framework. Presented at Concienc.ia Hackathon 2026 — Tec de Monterrey.
-→ [Repository](https://github.com/Mrlexintong1/CENTINELA_CDMX_IA)
+→ [Repository](https://github.com/LUBO616/CENTINELA_CDMX_IA)
 
 ---
 
