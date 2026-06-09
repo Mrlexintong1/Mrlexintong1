@@ -1,41 +1,81 @@
-# Hola! Soy Carlos Tlali 
-Ingeniero en Electrónica y Ciberseguridad por la UAG  |
-Experto en Ciberseguridad |  Data Science |  Cloud, Datos y Automatización  
+<div align="center">
 
+# Carlos Tlali Rosales
 
+**Head of Cybersecurity · vCISO · AI Security**
 
-##  Tecnologías y herramientas
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=cisco)
+Security leader who ships. I run security operations end-to-end and build the
+multi-agent AI systems that scale them — with a legal foundation that bakes in
+compliance and privacy by design.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)
+&nbsp;
+![Location](https://img.shields.io/badge/Cancún,%20MX-Remote%20·%20USD-1A1A1A?style=flat-square)
 
-## 📊 GitHub Stats
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrlexintong1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlexintong1&layout=compact&theme=radical)
+</div>
 
 ---
 
-## 📌 Proyectos destacados
+## Profile · Perfil
 
+**EN** — Head of Cybersecurity leading the full lifecycle: SOC (L1–L3), penetration
+testing, vulnerability management, EDR/MDM deployment, OSINT/CTI, and C-level
+reporting. I design and ship multi-agent AI systems for security and critical
+infrastructure. Legal background (LL.B.) lets me build compliance and privacy in
+from day one — not bolt them on later.
 
+**ES** — Head of Cybersecurity al frente del ciclo completo: SOC (L1–L3), pentesting,
+gestión de vulnerabilidades, despliegue EDR/MDM, OSINT/CTI y reportería a nivel C.
+Diseño y entrego sistemas de IA multiagente para seguridad e infraestructura crítica,
+con base legal que integra cumplimiento y privacidad por diseño.
+
+- **What I do** — Security Engineering · Applied AI · vCISO consulting
+- **Background** — Law degree · Cybersecurity Engineering (in progress) · University lecturer
+- **Open to** — vCISO & security consulting engagements (remote, USD)
 
 ---
 
-## 📫 Conecta conmigo
+## Selected Work · Trabajo destacado
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)  
-📧 carlos_tlali@comunidad.unam.mx
+**CENTINELA CDMX — Multi-agent AI for 911 emergency response**
+Multi-agent system to optimize Mexico City's 911 emergency response. 7+1 agents
+(collector, correlator, sentinel, triage, cartographer, strategist, orchestrator +
+auditor), real-time synthetic-voice detection (AASIST3), H3 geospatial analysis, and
+BeeAI + MCP orchestration over IBM Granite. Core design principle: the human operator
+always leads; the AI works in parallel. Compliant with LFPDPPP, NIST AI RMF, and the
+UNESCO AI ethics framework. Presented at Concienc.ia Hackathon 2026 — Tec de Monterrey.
+→ [Repository](https://github.com/Mrlexintong1/CENTINELA_CDMX_IA)
 
 ---
 
- Construyendo un perfil dual en Ciencia de Datos y Ciberseguridad para aportar soluciones tecnológicas reales y rentables.
+## Stack
+
+**Security** — SentinelOne · Tenable · Check Point Harmony · MITRE ATT&CK · OSINT · Maltego
+**AI & Agents** — BeeAI · MCP · IBM Granite · Ollama · FastAPI · n8n
+**Cloud & Infra** — AWS · Google Cloud · Docker · Redis · Neo4j · Linux
+**Languages** — Python · JavaScript · Bash · SQL
+
+---
+
+## Certifications · Certificaciones
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Cybersecurity Analyst Professional | IBM | Completed |
+| Cybersecurity Analyst Jr. | Cisco | Completed |
+| SC-100 — Cybersecurity Architect | Microsoft | Completed |
+| Cloud Fundamentals | Google Cloud | Completed |
+| MENSCISO | Google México | In progress |
+| Ethical Hacking | Cisco | In progress |
+| CISM | ISACA | Target |
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-carlostr45@gmail.com-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlostr45@gmail.com)
+
+</div>
 
