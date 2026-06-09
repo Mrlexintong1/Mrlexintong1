@@ -61,7 +61,7 @@ UNESCO AI ethics framework. Presented at Concienc.ia Hackathon 2026 — Tec de M
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Cybersecurity Analyst Professional | IBM | Completed |
+| Cybersecurity Professional | IBM | Completed |
 | Cybersecurity Analyst Jr. | Cisco | Completed |
 | SC-100 — Cybersecurity Architect | Microsoft | Completed |
 | Cloud Fundamentals | Google Cloud | Completed |
