@@ -2,7 +2,7 @@
 
 # Carlos Tlali Rosales
 
-**Head of Cybersecurity · vCISO · AI Security**
+**Head of Cybersecurity · AI Security**
 
 Security leader who ships. I run security operations end-to-end and build the
 multi-agent AI systems that scale them — with a legal foundation that bakes in
@@ -29,7 +29,7 @@ gestión de vulnerabilidades, despliegue EDR/MDM, OSINT/CTI y reportería a nive
 Diseño y entrego sistemas de IA multiagente para seguridad e infraestructura crítica,
 con base legal que integra cumplimiento y privacidad por diseño.
 
-- **What I do** — Security Engineering · Applied AI · vCISO consulting
+- **What I do** — Security Engineering · Applied AI · 
 - **Background** — Law degree · Cybersecurity Engineering (in progress) · University lecturer
 - **Open to** — vCISO & security consulting engagements (remote, USD)
 
