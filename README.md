@@ -30,9 +30,8 @@ Diseño y entrego sistemas de IA multiagente para seguridad e infraestructura cr
 con base legal que integra cumplimiento y privacidad por diseño.
 
 - **What I do** — Security Engineering · Applied AI · 
-- **Background** — Law degree · Cybersecurity Engineering (in progress) · University lecturer
-- **Open to** — vCISO & security consulting engagements (remote, USD)
-
+- **Background** — Law degree · Cybersecurity Engineering · University lecturer
+- **Open to**
 ---
 
 ## Selected Work · Trabajo destacado
