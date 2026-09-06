@@ -31,7 +31,6 @@ con base legal que integra cumplimiento y privacidad por diseño.
 
 - **What I do** — Security Engineering · Applied AI · 
 - **Background** — Law degree · Cybersecurity Engineering · University lecturer
-- **Open to**
 ---
 
 ## Selected Work · Trabajo destacado
