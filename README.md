@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos Tlali Rosales
+# Mrlexintong1
 
 **Head of Cybersecurity · AI Security**
 
@@ -8,9 +8,7 @@ Security leader who ships. I run security operations end-to-end and build the
 multi-agent AI systems that scale them — with a legal foundation that bakes in
 compliance and privacy by design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)
-&nbsp;
-![Location](https://img.shields.io/badge/Tlalpan,%20MX-Remote%20·%20USD-1A1A1A?style=flat-square)
+
 
 </div>
 
