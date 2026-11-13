@@ -8,8 +8,6 @@ Security leader who ships. I run security operations end-to-end and build the
 multi-agent AI systems that scale them — with a legal foundation that bakes in
 compliance and privacy by design.
 
-
-
 </div>
 
 ---
@@ -27,7 +25,7 @@ gestión de vulnerabilidades, despliegue EDR/MDM, OSINT/CTI y reportería a nive
 Diseño y entrego sistemas de IA multiagente para seguridad e infraestructura crítica,
 con base legal que integra cumplimiento y privacidad por diseño.
 
-- **What I do** — Security Engineering · Applied AI · 
+- **What I do** — Security Engineering · Applied AI ·
 - **Background** — Law degree · Cybersecurity Engineering · University lecturer
 ---
 
@@ -46,10 +44,10 @@ UNESCO AI ethics framework. Presented at Concienc.ia Hackathon 2026 — Tec de M
 
 ## Stack
 
-**Security** — SentinelOne · Tenable · Check Point Harmony · MITRE ATT&CK · OSINT · Maltego
-**AI & Agents** — BeeAI · MCP · IBM Granite · Ollama · FastAPI · n8n
-**Cloud & Infra** — AWS · Google Cloud · Docker · Redis · Neo4j · Linux
-**Languages** — Python · JavaScript · Bash · SQL
+- **Security** — Wazuh (SIEM/SOC) · Google SecOps · SentinelOne · Tenable · Check Point Harmony · MITRE ATT&CK · OSINT · Maltego
+- **AI & Agents** — BeeAI · MCP · IBM Granite · Ollama · FastAPI · n8n
+- **Cloud & Infra** — AWS · Google Cloud · Terraform · Docker · Redis · Neo4j · Linux
+- **Languages** — Python · JavaScript · Bash · SQL
 
 ---
 
@@ -57,22 +55,28 @@ UNESCO AI ethics framework. Presented at Concienc.ia Hackathon 2026 — Tec de M
 
 | Certification | Issuer | Status |
 |---|---|---|
+| AI Cybersecurity and Governance | Columbia University | Completed |
+| Google SecOps Black Belt | Google Cloud · Arki1 | Completed |
+| Google SecOps Advanced | Google Cloud · Arki1 | Completed |
 | Cybersecurity Professional | IBM | Completed |
 | SC-100 — Cybersecurity Architect | Microsoft | Completed |
+| Incident Response Training (IR series) | CISA | Completed |
+| Junior Cybersecurity Analyst | Cisco | Completed |
+| Deployment & Management of Agents | SentinelOne | Completed |
 | Cloud Fundamentals | Google Cloud | Completed |
-| MENSCISO | Google México | In progress |
+| AI Security Certification — pilot exam (SME) | ISC2 | In progress |
+| ICS Cybersecurity (300) | CISA | In progress |
+| Cloud Architect | Google Cloud | In progress |
+| MenCISO — Cybersecurity & AI | Google Cloud · Universidad Panamericana | In progress |
 | Ethical Hacking | Cisco | In progress |
 | CISM | ISACA | Target |
+| CISSP | ISC2 | Target |
+| ICS (301) | CISA | Target |
 
 ---
 
-<div align="center">
+## Recognition · Reconocimientos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostlali/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-carlostr45@gmail.com-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlostr45@gmail.com)
-
-</div>
-
-
-
+- **ISC2** — Contributor, AI Security Job Task Analysis (2026)
+- **Hack Royale: The Ultimate AI CTF** — 3rd place (WomenCISO/MenCISO + Google Cloud, 2026)
+- **Operation Cymbal: Cold Room CTF** — #44 of 1,716 teams, 18/18 challenges (Google Cloud Security + Hack The Box, 2026)
